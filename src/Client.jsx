@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "./styles.css";
-import { render } from "react-dom";
 
 const Client = ({ client, onDelete }) => (
   // On destructure le this.props qui est recu en paramettre on fait une extraction
